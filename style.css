@@ -1,0 +1,167 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+    background-color: #1A187A;
+}
+#hanger{
+    background-color: white
+}
+.carousel-banner{
+    background-image:linear-gradient(#E4B0F7,#EAF0F8,#44388C);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+   
+   
+}
+.overlay-img img{
+    width: 80%;
+    overflow: hidden;
+    height: auto;
+    /* max-width: 100%; */
+    
+}
+.overlay-img{
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+.carousel-item{
+    display: inline;
+    /* overflow: hidden; */
+}
+span.carousel-control-prev-icon {
+    /* color: beige; */
+    background-color: black;
+}
+span.carousel-control-next-icon {
+    /* color: beige; */
+    background-color: black;
+}
+.airpod{
+    background-image: url(/image/Capture.PNG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 39px 20px;
+}
+.ipad-mac{
+    width: 100%;
+    background-color: #EDEDED;
+    
+}
+.ipad-left-text{
+    text-align: left;
+    padding: 27px;
+    margin-top: 110px;
+}
+
+.ipad-right{
+    /* background-color: #EDEDED; */
+
+}
+.ipad-left-img {
+    margin-top: 110px;
+    bottom: 0px;
+}
+.ipad-up {
+    background-color: white;
+}
+.mac-img {
+    overflow: hidden;
+    height: auto;
+    max-width: 100%;
+}
+.mac-text h2 {
+    color: grey;
+    font-weight: 300;
+    font-size: 50px;
+}
+.mac-text h1 {
+    font-weight: 800;
+}
+.all-category {
+    background-color: #ededed;
+    text-align: center;
+    border-radius: 8px;
+}
+/* .category {
+    display:grid;
+    
+} */
+.all-category i{
+    font-size: 50px;
+    margin-top: 16px;
+}
+
+.all-category p {
+    font-size: 20px;
+    margin-top: 7px;
+}
+section.categories {
+    margin-top: 104px;
+    width: 100%;
+    margin-bottom: 95px;
+}
+.row.all-categoris {
+    width: 100%;
+}
+
+.icon-bg {
+    border-radius: 5px;
+    background-color: #ededed;
+    text-align: center;
+    padding: 10px;
+    /* font-size: 23px; */
+    margin: 6px 7px;
+}
+
+.icon-bg i {
+    font-size: 53px;
+    margin-top: 10px;
+}
+
+.icon-bg p {
+    font-size: 17px;
+    margin-top: 19px;
+}
+
+.title h4 {
+    font-size: 24px;
+    margin: 46px 6px;
+}
+
+.mb.card-body{
+    text-align: center;
+}
+.mb.btn{
+    border-radius: 5PX;
+    box-shadow: 0.5px 1px 2px hsla(0, 0%, 20%, 1);
+    padding: 8px 58px;
+}
+.mb.btn:hover{
+    transform: translateX(-2px);
+    box-shadow: 2px 2px 5px hsla(0, 0%, 20%, 1);
+}
+.mb.card{
+    border-radius:5px;
+    overflow: hidden;
+    align-items: center;
+}
+img.card-img-top {
+    width: 54%;
+}
+section.selling-items {
+    width: 96%;
+}
+.buy-now-btn {
+    padding: 6px 47px;
+}
+.d-flex.togole-span {
+    margin-bottom: 53px;
+}
